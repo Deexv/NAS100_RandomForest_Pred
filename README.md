@@ -1,4 +1,4 @@
-NASDAQ 100 Price Prediction with Random Forest Classifier
+# NASDAQ 100 Price Prediction with Random Forest Classifier
 This repository contains Python code for predicting stock price movements using the Random Forest Classifier algorithm. The code utilizes the Yahoo Finance API to retrieve historical stock data and then trains a Random Forest model to predict whether the stock price will increase or decrease in the future.
 
 Setup
@@ -6,7 +6,9 @@ To run the code, make sure you have Python installed on your system. You can ins
 
 bash
 Copy code
+'''
 pip install yfinance scikit-learn pandas
+'''
 Usage
 Clone the repository:
 bash
