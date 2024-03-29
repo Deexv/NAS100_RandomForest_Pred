@@ -34,8 +34,8 @@ Evaluation: The precision score of the model is calculated to evaluate its perfo
 Results
 The code provides predictions for stock price movements based on the trained Random Forest model. The precision score indicates the accuracy of the predictions.
 
-# Note
+## Note
 This code is provided for educational purposes and should not be used for making actual financial decisions without proper consultation and analysis.
-# Contributors
+## Contributors
 - Deexv
-Feel free to contribute to this project by opening issues or pull requests. Happy predicting!
+### Feel free to contribute to this project by opening issues or pull requests. Happy predicting!
